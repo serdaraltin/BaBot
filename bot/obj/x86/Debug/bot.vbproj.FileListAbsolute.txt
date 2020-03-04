@@ -1,0 +1,9 @@
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\obj\x86\Debug\bot.Resources.resources
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\obj\x86\Debug\bot.vbproj.GenerateResource.Cache
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\bin\Debug\bot.exe
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\bin\Debug\bot.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\bin\Debug\bot.xml
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\obj\x86\Debug\bot.exe
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\obj\x86\Debug\bot.xml
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\obj\x86\Debug\bot.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\BA-BOT\bot\obj\x86\Debug\bot.main.resources
